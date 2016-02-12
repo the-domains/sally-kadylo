@@ -1,0 +1,28 @@
+name: Sally Kadylo
+favicon: null
+layout_spectrum: 0.454230226110667
+typography_spectrum: 0.06618488463573158
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.3856987638864666
+  lightness: 0.8489765981212258
+  saturation: 0.3090365920215845
+  rhythmicContrast: 0.25619688583537936
+purpose: []
